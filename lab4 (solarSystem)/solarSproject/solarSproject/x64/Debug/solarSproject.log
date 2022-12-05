@@ -1,0 +1,12 @@
+﻿Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInit в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitDisplayMode в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowPosition в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowSize в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutMainLoop в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutCreateWindow в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutPostRedisplay в функции "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutDisplayFunc в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutReshapeFunc в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glutKeyboardFunc в функции main.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64\glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Олег\СТАНКИН\5sem\ПСВУ\solarSproject\x64\Debug\solarSproject.exe : fatal error LNK1120: неразрешенных внешних элементов: 10
